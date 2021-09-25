@@ -1,0 +1,129 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+   
+}
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: #1f2937;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+}
+.hright{
+    display: flex;
+    gap: 8px;
+    margin: 10px;
+}
+.hleft{
+    margin: 10px;
+}
+.row1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #1f2937;
+    color: white;
+}
+.title{
+    font-size: 48px;
+    font-weight:bolder;
+    font-family: 'Hero Main Text', 'Arial Narrow', Arial, sans-serif;
+}
+.r1left{
+
+}
+.r1right{
+
+}
+
+.row2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+.card{
+    margin: 20px;
+}
+.row3{
+    height: 500px;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e7eb;
+    
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+.r3text{
+   margin: 200px;
+}
+.row4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.button1{
+    background-color: #3882f6;
+    color: white;
+    border: none;
+    font-size: medium;
+    padding: 5px 12px;
+    border-radius: 8px;
+    
+}
+.bluebox{
+    height: 120px;
+    width: 1000px;
+    margin: 60px;
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+}
+.button2{
+    background-color: #3882f6;
+    color: white;
+   
+    border: 1px solid white;
+    font-size: medium;
+    padding: 5px 12px;
+    border-radius: 8px;
+    
+}
+.text1bluebox{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text2bluebox{
+
+}
+.footer{
+    background-color: #1f2937;
+    color: white;
+}

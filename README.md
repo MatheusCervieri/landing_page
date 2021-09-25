@@ -1,1 +1,1 @@
-This is my first landing page with CSS and Flex Box.
+This is my first landing page with CSS and Flex Box. I am very proud that i finished it. 
